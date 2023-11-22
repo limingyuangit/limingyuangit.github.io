@@ -1,4 +1,4 @@
 # limingyuangit.github.io
-<video width="100%" height="100%" controls>
+<video>
     <source src="test.mp4" type="video/mp4">
 </video>
